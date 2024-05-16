@@ -17,3 +17,5 @@ def solution(phone_book):
                 check[i].append(number[i])
                 
     return answer
+
+print(solution(["123", "12","1234"]))
